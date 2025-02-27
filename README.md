@@ -14,12 +14,11 @@ I'm Ikem
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wekhe&show_icons=true&locale=en&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=wekhe&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=wekhe&show_icons=true&locale=en)
 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wekhe&)](https://git.io/streak-stats)
 
 
 <h1>Technologies</h1>
