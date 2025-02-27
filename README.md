@@ -11,7 +11,7 @@ I'm Ikem
 <hr/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wekhe&show_icons=true&locale=en&layout=compact)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wekhe&show_icons=true&locale=en&layout=compact)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=wekhe&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
