@@ -9,7 +9,7 @@ I am  passionate about exploring the realms of coding, solving problems, and bui
 - 💻 Building Spring Boot applications with PostgreSQL
 
 
-## 🎓 About Me
+### 🎓 About Me
 
 
 - [Instagram](https://www.instagram.com/goofyikem/)
