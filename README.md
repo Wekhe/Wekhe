@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am passionate about exploring the realms of coding, solving problems, and building robust and scalable applications.
 
-### 🚀 What I'm Up To
+### 🚀 What I am Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
