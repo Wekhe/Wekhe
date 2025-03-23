@@ -27,6 +27,8 @@ Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Solidity](https://img.shields.io/badge/solidity-%233776AB.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 
 Developer Tools: 
@@ -44,7 +46,8 @@ Libraries/Frameworks:
 Code Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm-idea&logoColor=white)
+![Webstorm](https://img.shields.io/badge/Webstorm-000000.svg?style=for-the-badge&logo=webrm-idea&logoColor=white)
 
 
 
