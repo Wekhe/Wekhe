@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ikem Wekhe </h1>
+<h1 align="center">Hi 👋 I'm Ikem Wekhe</h1>
 
 # 💫 About Me:
 I am passionate about exploring the realms of coding, solving problems, and building robust and scalable applications.
