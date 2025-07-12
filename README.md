@@ -5,8 +5,8 @@ I am passionate about exploring the realms of coding, solving problems, and buil
 
 ### 🚀 What I'm Up To
 
-- 🤖 Exploring Blockchain with [Solidity](https://soliditylang.org/)
-- 💻 Building Spring Boot applications with PostgreSQL and Decentralized Apps with Solidity/Ethereum
+- 🤖 Exploring cloud with AWS
+- 💻 DevOps Pushing production ready apps to the cloud 
 
 
 ### 🎓 About Me
